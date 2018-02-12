@@ -1,4 +1,4 @@
-package projects;
+//package projects;
 import java.util.Scanner; 
 
 public class Excercise2_1 {

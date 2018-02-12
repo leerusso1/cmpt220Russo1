@@ -1,4 +1,4 @@
-package projects;
+//package projects;
 
 public class Excercise1_4 {
 	public static void main(String[ ] args) {
