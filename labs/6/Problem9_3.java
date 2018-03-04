@@ -22,10 +22,10 @@ public class Problem9_3 {
 	date.setTime(1000000000);
 	System.out.println(date.toString());
 	
-	date.setTime(10000000000);
+	date.setTime(10000000000L); // JA
 	System.out.println(date.toString());
 	
-	date.setTime(100000000000);
+	date.setTime(100000000000L); //JA
 	System.out.println(date.toString());
 	}
 }
