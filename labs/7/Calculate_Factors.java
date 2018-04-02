@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-
+// JA: Where is StackOfIntegers defined?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 public class Calculate_Factors { 
 	public static void main(String[] args) {
 		StackOfIntegers stack = new StackOfIntegers(); 
