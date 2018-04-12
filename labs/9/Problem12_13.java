@@ -18,7 +18,8 @@ public class Problem12_13 {
 			lines++; 
 			String line = in.nextLine(); 
 			chars += line.length(); 
-			words += new StringTokenizer(line, ",").countTokens(); 
+			// JA: Use line.split(" ").length
+			words += new StringTokenizer(line, ",").countTokens();
 		}
 		System.out.println("words: " + words + " lines: " +lines + " chars: " +chars); 
 	}
